@@ -10,7 +10,7 @@ favicon        = "img/favicon.png"
 SortBy              = "default"
 
 [footer]
-    since      = 2020
+    since      = 2026
     customText = ""
 
 [dateFormat]
@@ -18,8 +18,8 @@ SortBy              = "default"
     lastUpdated = ":date_full"
 
 [sidebar]
-    emoji    = "🍥"
-    subtitle = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    emoji    = ""
+    subtitle = "灰色的向日葵"
     avatar   = "img/avatar.png"
 
 [article]
@@ -46,7 +46,7 @@ SortBy              = "default"
 
 [colorScheme]
     toggle  = true
-    default = "auto"
+    default = "dark"
 
 ## Comments
 [comments]
