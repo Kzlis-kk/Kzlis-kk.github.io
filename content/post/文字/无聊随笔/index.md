@@ -1,11 +1,11 @@
 ---
 title: "无聊随笔"
+date: 2026-05-03T02:01:40+08:00
+image: "atri.png"
 categories:
     - "文字"
 tags:
     - "随笔"
-date: 2026-05-03T02:01:40+08:00
-image: "atri.jpg"
 comments: false
 draft: false
 build:
@@ -24,4 +24,4 @@ build:
 
 **改变总是这样发生：进行时总感觉是连续的，但当你真正回过头看，过去已经离得相当遥远。不过毋庸置疑的是——我还是我**。
 
-![ATRI](atri.jpg)
+![atri](atri.png)

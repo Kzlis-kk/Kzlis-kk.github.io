@@ -26,6 +26,7 @@ SortBy              = "default"
     headingAnchor = false
     math          = false
     readingTime   = true
+    image = true
 
     [article.license]
         enabled = true
