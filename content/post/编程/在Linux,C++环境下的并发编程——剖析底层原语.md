@@ -113,11 +113,8 @@ a += 1;
 **x86架构**
 
 1. **memory_order_relaxed**: 编译成普通的 MOV 指令。
-
 2. **memory_order_acquire**: 编译成普通的 MOV 指令。
-
 3. **memory_order_release**: 编译成普通的 MOV 指令。
-
 4. **memory_order_seq_cst**: 编译成 LOCK XCHG 或者普通的 MOV 加上一条 **MFENCE (内存屏障)** 指令。
    + MFENCE 的作用是：**锁死当前 CPU，强制把 Store Buffer 里的所有数据排空（Flush）到 L1 缓存中，让全局可见后，才允许执行下一条指令。**
 
