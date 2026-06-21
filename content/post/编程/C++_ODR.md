@@ -1,5 +1,5 @@
 ---
-title: "C++_ODR"
+title: "C++ ODR"
 description: 
 date: 2026-06-21T21:18:09+08:00
 categories:
